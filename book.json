@@ -2,7 +2,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "ahangchen-blog"
+            "shortName": "mlab-doc"
         }
     }  
 }
